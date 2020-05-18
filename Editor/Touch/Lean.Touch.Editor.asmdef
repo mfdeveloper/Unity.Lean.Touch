@@ -1,0 +1,18 @@
+{
+    "name": "Lean.Touch.Editor",
+    "references": [
+        "GUID:db3202cb94ce05e4a9fea1c0c4636177",
+        "GUID:23d6d71753d4c114886eb9e3e29a53ce"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Lean.Touch",
+    "references": [
+        "GUID:a532ad4399f94804799ac5285674b206"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,42 @@
+{
+	"name": "com.lean.touch",
+	"displayName": "Lean Touch",
+	"version": "2.0.9",
+	"unity": "2017.4",
+	"author": "Carlos Wilkes",
+	"description": "Quickly add touch controls to your game using Lean Touch",
+	"dependencies": {},
+	"repository": {},
+	"samples": [
+		{
+			"displayName": "Finger Old",
+			"description": "Finger old sample",
+			"path": "Samples~/Touch/FingerOld"
+		},
+		{
+			"displayName": "Finger Trail",
+			"description": "Finger Trail sample",
+			"path": "Samples~/Touch/FingerTrail"
+		},
+		{
+			"displayName": "Isolate 3D Transform",
+			"description": "Isolate 3D Transform sample",
+			"path": "Samples~/Touch/Isolate3DTransform"
+		},
+		{
+			"displayName": "Isolate 3D Transform",
+			"description": "Isolate 3D Transform sample",
+			"path": "Samples~/Touch/Isolate3DTransform"
+		},
+		{
+			"displayName": "Fonts samples",
+			"description": "Fonts used in samples",
+			"path": "Samples~/Common/Fonts"
+		},
+		{
+			"displayName": "Materials samples",
+			"description": "Materials used in samples",
+			"path": "Samples~/Common/Materials"
+		}
+	]
+}
